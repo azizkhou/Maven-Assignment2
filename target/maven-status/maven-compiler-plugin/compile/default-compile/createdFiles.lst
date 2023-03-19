@@ -1,0 +1,7 @@
+pageobjects\HomePage.class
+pageobjects\ProductDetailPage.class
+TestCases\BaseTest.class
+Utils\Util.class
+pageobjects\CartPage.class
+TestCases\TestForPracticeActions.class
+pageobjects\WelcomePage.class
